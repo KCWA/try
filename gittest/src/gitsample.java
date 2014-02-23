@@ -7,7 +7,7 @@ public class gitsample {
 		System.out.println("try via browser to eclipse");
 		System.out.println("this is crazy");
 		System.out.println("madhus");
-		System.out.println("mtyynus");
+		System.out.println("mtyyffhyf");
 		
 	}
 
